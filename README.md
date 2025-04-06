@@ -1,4 +1,4 @@
-# DS320_Final_Proj: Clustering NBA Player Archetypes
+# Clustering NBA Player Archetypes
 
 This project applies unsupervised machine learning techniques to NBA player statistics to identify player archetypes. The main objective is to group players into performance-based categories such as Inside Scorer, Outside Scorer, All-Around, and Defensive Specialist using K-Means clustering and Principal Component Analysis (PCA).
 
