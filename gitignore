@@ -1,0 +1,13 @@
+# R and RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# MacOS
+.DS_Store
+
+# Output
+*.csv
+*.rds
+*.pdf
+*.png
